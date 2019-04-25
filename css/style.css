@@ -1,0 +1,25 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.item{
+    width: 10%;
+    height: 300px;
+}
+.row{
+    display: flex;
+    flex-wrap: nowrap; 
+    justify-content: space-between;
+}
+.color1{
+    background: green;
+}
+.color2{
+    background: darkred;
+}
+.color3{
+    background: darkorange;
+}
+.color4{
+    background: darkmagenta;
+}
